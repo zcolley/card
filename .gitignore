@@ -16,4 +16,5 @@
 
 .prettierignore
 
-.idea
+
+!/.idea/
